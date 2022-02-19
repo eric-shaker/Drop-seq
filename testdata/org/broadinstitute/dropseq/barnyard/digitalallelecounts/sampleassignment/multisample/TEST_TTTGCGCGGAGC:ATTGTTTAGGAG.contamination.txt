@@ -1,2 +1,0 @@
-cell_barcode	frac_contamination
-TTTGCGCGGAGC:ATTGTTTAGGAG	0.2
